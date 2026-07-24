@@ -137,7 +137,7 @@ npm install
 ### 4. Create Database
 
 ```sql
-CREATE DATABASE staffflow;
+CREATE DATABASE stafflow;
 ```
 
 Import the SQL file:

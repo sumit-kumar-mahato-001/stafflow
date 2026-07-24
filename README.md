@@ -189,10 +189,10 @@ http://localhost:5000
 
 ```
 Email:
-admin@example.com
+fighter@gmail.com
 
 Password:
-admin123
+fighter123
 ```
 
 *(Change credentials in your database.)*
@@ -321,11 +321,11 @@ This project is licensed under the MIT License.
 
 # 👨‍💻 Author
 
-**Sumit Kumar**
+**Sumit Kumar Mahato**
 
 Computer Science & Engineering Student
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/sumit-kumar-mahato-001
 
 ---
 

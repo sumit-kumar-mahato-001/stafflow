@@ -102,9 +102,9 @@ StaffFlow/
 
 ---
 
-## 🔄 User Flow Diagram
+## 🔄 Edit Employee's Profile
 
-![User Flow](images/user-flow.png)
+![Edit Employee](images/edit-employee.png)
 
 ---
 

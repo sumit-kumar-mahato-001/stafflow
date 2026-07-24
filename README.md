@@ -113,7 +113,7 @@ StaffFlow/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/staffflow.git
+git clone https://github.com/sumit-kumar-mahato-001/staffflow.git
 ```
 
 ---
